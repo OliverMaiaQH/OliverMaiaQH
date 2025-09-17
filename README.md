@@ -1,7 +1,7 @@
 # Olá, eu sou a Queren Hapuque! 👋
 
 <p>
-  Sou uma estudante de Análise e Desenvolvimento de Sistemas de Campinas, SP, apaixonada por transformar ideias em código e solucionar problemas. Atualmente, estou focando meus estudos.
+  Sou uma estudante de Análise e Desenvolvimento de Sistemas de Campinas, SP, apaixonada por transformar ideias em código e solucionar problemas. Atualmente, estou focando em meus estudos, mas pretendo criar muitas novas ideias dentro da programação, principalmente que seja útil para as pessoas. :D
 </p>
 
 ## 🚀 Habilidades e Tecnologias
